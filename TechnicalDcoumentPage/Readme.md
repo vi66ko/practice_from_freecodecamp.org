@@ -4,6 +4,6 @@
 
 ## [Link to the freeCodeCamp example](https://technical-documentation-page.freecodecamp.rocks/)
 
-<br><br>
+<br>
 
 Thank you for all your effort and all the free resource!! 
